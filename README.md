@@ -1,6 +1,6 @@
 # Library Management System
 
-This project is a **Library Management System** developed using **C# .NET 8** following the **3-Tier Architecture** pattern. It is designed to showcase my skills in thinking big to plan a project that has different components that interact and integrate together following a systimatic steps to plan the project following SOLID Principles, Design Patterns and coding best prctices to ensure the Software Quality Criteria and create a well-structured system from initial requirements gathering to implementation.
+This project is a **Library Management System** developed using **C# .NET 8** following the **3-Tier Architecture** pattern. It is designed to showcase my skills in thinking big to plan a project that has different components that interact and integrate together following a systimatic steps to plan the project following SOLID Principles, Design Patterns and coding best prctices to ensure the Software Quality Criteria and create a well-structured system from initial requirements gathering to design the database following the Normalization Principles to final implementation.
 
 ## Features
 - **Manage Books**: Add, update, remove, and search for books in the library system.
