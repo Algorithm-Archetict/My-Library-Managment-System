@@ -5,6 +5,7 @@ This project is a **Library Management System** developed using **C# .NET 8** fo
 ## Features
 - **Manage Books**: Add, update, remove, and search for books in the library system.
 - **Manage Users**: Create and manage library members, including borrowing and returning books.
+- **Registeration, Authentication and Authorization**: Users can be registered, login the system by using their correct UserName and Password and access a part of the system based on their roles. 
 - **Loan Management**: Handle the borrowing and returning process, including tracking due dates and overdue books.
 - **Reports**: Generate reports on book availability, user activity, and loan statuses.
 
@@ -38,7 +39,6 @@ This project demonstrates my ability to:
 - **Implement SOLID Principles**: to reduce dependencies so that i can change one area of the software without impacting others. They make it easier to understand, maintain, and extend designs.
 
 ## Future Enhancements
-- **Authentication and Authorization**: Add user roles and permissions.
 - **Multi-Branch Support**: Expand the system to handle multiple library branches.
 - **Automated Testing**: Implement unit and integration tests for different components.
 
